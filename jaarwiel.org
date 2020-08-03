@@ -1,0 +1,15 @@
+#+LANGUAGE: nl
+#+STARTUP: inlineimages:t
+#+OPTIONS: toc:nil
+
+
+| Seizoen | Zon         | Keltisch jaarwiel           |
+|---------+-------------+---------------------------|
+| herfst  | equinox     | Mabon (rond 21 sept)      |
+|         |             | Samhein (31 okt-1 nov)    |
+| winter  | kortste dag | Yule (rond 21 dec)        |
+|         |             | Imbolc (2 feb)            |
+| lente   | equinox     | Ostara (rond 21 maart)    |
+|         |             | Beltane (30 april-1 mei)  |
+| zomer   | langste dag | Litha (rond 21 juni)      |
+|         |             | Lughnsadh (31 juli/1 aug) |

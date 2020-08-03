@@ -1,0 +1,108 @@
+#+LANGUAGE: nl
+#+STARTUP: inlineimages:t
+#+OPTIONS: toc:nil
+
+Deze pagina beschrijft kort mijn ideeën over Tarot, welke bronnen ik heb gebruikt voor deze site en welke keuzes ik daarbij heb gemaakt. Op een aparte pagina vind je informatie over [[./#/time][Zon, maan en sterrenbeelden]].
+
+* Tarot
+
+Ik beschouw Tarot als kartonnetjes met afbeeldingen er op. Ik geloof niet dat de kaarten of de lezer bovennatuurlijke eigenschappen hebben. Ik geloof wel dat we meer weten en waarnemen dan we ons bewust zijn. Mensen die we helderziend of paranormaal noemen, kunnen beter waarnemen dan anderen en/of zijn zich beter bewust van die waarnemingen.
+
+De afbeeldingen op Tarot-kaarten zijn ook niet zomaar plaatjes. Ze zijn zo universeel en rijk dat ze veel associaties oproepen met belangrijke aspecten van het leven. Deze associaties brengen kennis uit ons onderbewuste naar boven. Tarot-kaarten (en de lezer) helpen de vrager daarmee hun onderbewuste aan te boren. De vrager komt dus niet meer te weten over zichzelf, een ander of de toekomst dan hij of zij eigenlijk al wist.
+
+Maar dat is mijn mening. Anderen staan er heel anders in. En dat is prima. Ik hou van diversiteit.
+
+* Beknopte uitleg
+
+We onderscheiden:
+  - Grote Arcana ('troeven')
+  - Kleine Arcana
+    - Staven
+    - Pentakels
+    - Zwaarden
+    - Kelken
+
+De Grote Arcana worden veelal ingedeeld naar levensfase:
+  - Variant I:
+    - I en XXI als begin en einde
+    - I-X: jeugd
+    - XI-XX: volwassenheid
+  - Variant II:
+    - O: Geboorte / De vonk
+    - I-V: Jeugd / Drijfveren
+    - VI-XII: Volwassen / Zelfontdekking / Het IK
+    - XIII-XXI: Ouderdom / Inpassing / Bestemming
+  - [[http://www.spiridoc.nl/grotearcana/grarc_inleiding.htm][indeling]] naar bewustzijn
+    - O-VII: Bewustzijn
+    - VIII-XIV: Het onderbewuste / Zelfontdekking
+    - XV-XXI: Het bovenbewuste
+
+Waite heeft VIII en XI omgedraaid ten opzicht van oudere varianten. Deze site hanteert zijn volgorde.
+
+De Kleine Arcana bestaan uit vier kleuren die elk hun eigen thema's hebben:
+
+
+| Kleur     | Aspect                                            | Element | m/v | Middeleeuwse standen         | Uitwerking van een idee              |
+|-----------+---------------------------------------------------+---------+-----+------------------------------+--------------------------------------|
+| staven    | creativiteit, dadendrang, passie                  | vuur    | m   | boeren en arbeiders          | het idee                             |
+| pentakels | het tastbare, lichamelijke, materiële, huizelijke | aarde   | v   | ambachtslieden en handelaars | vorm geven aan                       |
+| zwaarden  | analyseren, gedachten, begrijpen                  | lucht   | m   | adel                         | begrijpen van (afstand en overzicht) |
+| kelken    | gevoelens, spiritualiteit                         | water   | v   | geestelijkheid               | eigen maken van (inleven)            |
+
+Waite hanteert de volgorde: staven, kelken, zwaarden, pentakels. En hij beschrijft de kaarten per kleur van Koning tot Aas.
+
+Elke kleur bestaat uit een aantal deelseries:
+
+  - Aas :: het begin
+  - Getallen II t/m X :: wat je doet, actie
+  - Hofkaarten: Page (of Schildknaap), Ridder, Koningen, Koning :: wat je bent, toestand
+
+** Bronnen
+
+De informatie op deze site komt uit verschillende bronnen, waaronder:
+  - [[https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot][The Pictorial Key To The Tarot (Illustrated)]] van Arthur Edward Waite
+    en de vertaalde betekenissen in het kleine boekje bij mijn kaarten.
+  - [[https://tarotstapvoorstap.nl][Tarot Stap voor Stap]]
+  - [[https://www.thismighthurttarot.com/the-deck][This might hurt tarot]] (Eng.)
+  - [[https://www.tarot.com/tarot/decks][tarot.com]] voor de plaatjes van de kaarten
+  - [[https://www.reddit.com/r/tarot/][Reddit]] om van gedachten te wisselen met anderen [[[https://www.reddit.com/r/SecularTarot/][2]]], [[[https://www.reddit.com/r/tarotpractice/][3]]], [[[https://www.reddit.com/r/tarotreadings/][4]]]
+  - [[http://www.letarot.nl/tarotkaart/overzicht/][Le Tarot]]: de kaarten in [[http://www.letarot.nl/welke-tarotkaarten-gebruik-ik-en-waarom-de-tarot-in-de-herstelde-orde/][herstelde orde]] en met 2 extra
+  - [[http://www.inspiratiesite.nl/TAROT HANDLEIDING.pdf][Tarot handleiding]] van Jan de Graaf.
+  - [[https://www.catharinaweb.nl/tarot/][Catharinaweb]]
+  - [[https://nl.wikipedia.org/wiki/Tarot][Wikipedia]]
+  - Een wikibook over [[https://nl.wikibooks.org/wiki/Portaal:Esoterie][esoterie]]
+  - [[https://www.orakels.net/tarot/betekenis][Orakels.net]]
+  - [[https://www.tijdgeest.eu/orakels/tarotkaarten][Tijdgeest]]
+  - [[http://www.kaartensterren.nl/pagina's/tarot%201.html][Kaart en sterren]]
+  - [[http://www.spiridoc.nl/tarot_intro.htm][Spiridoc]]
+
+Bij verschillen tussen de bronnen heb ik intuïtief mijn voorkeur gekozen.
+
+Om mij te helpen om de betekenissen van de kaarten te onthouden, heb ik elke kaart een kernwoord toegekend. Dit kernwoord is persoonlijk, waarbij ik heb geprobeerd om binnen de geldende duidingen van de betreffende kaart te blijven.
+
+De kaarten zijn die van [[https://www.psychicpowernetwork.com/2018/09/tarot-card-decks-classic-and-rare/][Rider, Waite & Smith]], maar er zijn er [[https://www.tarot.com/tarot/decks][veel meer]]. Zie hier voor een [[/tarot.pdf][overzicht]] van verschillende tarots naast elkaar.
+
+Hieronder volgt een beknopte opsomming van sommige gegevens uit bovenstaande bronnen:
+
+* Zijdelings gerelateerd :noexport:
+
+** Elementen
+
+[[https://en.wikipedia.org/wiki/Alchemical_symbol][Alchemistiche elementen]] en hun [[https://www.heinpragt.com/symbols/alchemie-symbolen.php][symbolen]]
+
+** Archetypen
+
+Ik ben altijd geboeid geweest door de [[https://www.unlp.nl/kennisbank/begrippen-en-technieken/archetype-jung][Archetypen]] van Jung. De [[https://tallsay.com/page/4294988601/tarot-archetypen-naar-de-ontwikkelingspsychologie-van-carl-gustav-jung][Grote Arcana]] gaat ook over archetypen, maar de relatie is mij niet helemaal duidelijk:
+
+  1. De onschuldige: De Dwaas
+  2. De gewone man:
+  3. De held: De Zegewagen
+  4. De zorggever: De Keizerin
+  5. De ontdekkingsreiziger: De Magiër?
+  6. De Rebel: De Gehangene?
+  7. De Minnaar:
+  8. De Schepper: De Wereld?
+  9. De Nar: De Dwaas
+  10. De Wijze: De Kluizenaar
+  11. De Magiër: De Magiër
+  12. De Heerser: De Keizer
